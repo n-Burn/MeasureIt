@@ -1,4 +1,5 @@
 # MeasureIt
-MeasureIt is a Blender add-on designed for displaying measures in the viewport, making the process of design objects with exact measures, easier.
 
-**Note:** the 1.7.X versions of MeasuireIt hosted here are compatible with Blender versions 2.74 to 2.79.
+MeasureIt is a Blender add-on used to display measurements in the viewport, making the design process for objects with exact measurements easier.
+
+**Note:** The versions of MeasureIt included with Blender releases after 2.78 have had there backwards compatibility code removed and are not fully compatible with Blender versions older than 2.78. The versions of MeasureIt in this repo have the compatibility code intact and should work with Blender versions 2.74 to 2.79.
