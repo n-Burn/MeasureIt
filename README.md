@@ -1,5 +1,6 @@
 # MeasureIt
-MeasureIt is a Blender add-on designed for displaying measures in the viewport, making the process of design objects with exact measures, easier.
+
+MeasureIt is a Blender add-on used to display measurements in the viewport, making the design process for objects with exact measurements easier.
 
 **Online Repository for MeasureIt (todo)**
 
